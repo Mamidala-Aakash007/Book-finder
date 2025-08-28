@@ -77,3 +77,6 @@ A React application to search for books using the Open Library API, with feature
 ## Deployment
 
 Hosted on Vercel: https://book-finder-gray-eta.vercel.app/
+
+## API used
+Open Library Search API: https://openlibrary.org/search.json?title={bookTitle}
