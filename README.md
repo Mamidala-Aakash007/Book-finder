@@ -46,7 +46,7 @@ A React application to search for books using the Open Library API, with feature
 
 ## Screenshots
 
-![homepage!](public\homepage.png)
+![homepage](public\homepage.png)
 ![Subject-category-search](public\Subject-category-search.png)
 ![Title-category-search](public\Title-category-search.png)
 ![Author-category-search](public\Author-category-search.png)
